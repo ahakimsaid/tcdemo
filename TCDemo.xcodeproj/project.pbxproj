@@ -47,7 +47,6 @@
 		EBC246A128466BA600243908 /* TCExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBC246A028466BA600243908 /* TCExample.swift */; };
 		EBC9B6702B10E7CC003AA79D /* TCUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBC9B66F2B10E7CC003AA79D /* TCUtils.swift */; };
 		EBCC08A7289176140070ADE7 /* success.json in Resources */ = {isa = PBXBuildFile; fileRef = EBCC08A6289176140070ADE7 /* success.json */; };
-		EBF7334F2B63F1F200A2C608 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EBF7334E2B63F1F200A2C608 /* GoogleService-Info.plist */; };
 		EBFE6A2F2858B44D00A03A54 /* Tab.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBFE6A2E2858B44D00A03A54 /* Tab.swift */; };
 		EBFE6A322858B95700A03A54 /* TCExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBFE6A312858B95700A03A54 /* TCExtensions.swift */; };
 		EBFFCA0E2B8CF3CC0004A3CC /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = EBFFCA0D2B8CF3CC0004A3CC /* FirebaseAnalytics */; };
@@ -113,7 +112,6 @@
 		EBC246A028466BA600243908 /* TCExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TCExample.swift; sourceTree = "<group>"; };
 		EBC9B66F2B10E7CC003AA79D /* TCUtils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TCUtils.swift; sourceTree = "<group>"; };
 		EBCC08A6289176140070ADE7 /* success.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = success.json; sourceTree = "<group>"; };
-		EBF7334E2B63F1F200A2C608 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		EBFE6A2E2858B44D00A03A54 /* Tab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab.swift; sourceTree = "<group>"; };
 		EBFE6A312858B95700A03A54 /* TCExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TCExtensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -217,7 +215,6 @@
 		EB48FE3B283BDE9400D01B88 /* TCDemo */ = {
 			isa = PBXGroup;
 			children = (
-				EBF7334E2B63F1F200A2C608 /* GoogleService-Info.plist */,
 				EBC246A228466BB800243908 /* TCExample */,
 				EB0C8554283D300D006CB8DB /* Views */,
 				EB0C8555283D30D8006CB8DB /* Data */,
@@ -405,7 +402,6 @@
 				EBCC08A7289176140070ADE7 /* success.json in Resources */,
 				EB3513DB2B275FBF005334CA /* privacy.json in Resources */,
 				EB8BDDDA2940DB1000F74631 /* TCIABPublisherRestrictions.json in Resources */,
-				EBF7334F2B63F1F200A2C608 /* GoogleService-Info.plist in Resources */,
 				EB8BDDD82940DA2D00F74631 /* purposes-fr.json in Resources */,
 				EBC2469B28466B4200243908 /* vendor-list.json in Resources */,
 			);
