@@ -1,0 +1,121 @@
+{"products":
+[{
+"id" : "1",
+"name" : "Fifa 22",
+"description" : "Les nouveautés de FIFA 22 vous offrent une plus grande cohérence dans les cages avec une refonte des gardiens qui permet à ces derniers d’afficher une plus grande sérénité. De plus, la nouvelle physique du ballon et l’accélération fulgurante retranscrivent plus fidèlement la vitesse des meilleurs joueurs. Enfin, les nouvelles tactiques offensives vous offrent une plus grande liberté dans vos systèmes de jeu. En Mode Carrière, vivez vos rêves les plus fous en créant et en menant votre propre club vers les sommets. VOLTA FOOTBALL récompense votre instinct avec une jouabilité retravaillée et de nouvelles façons de jouer et de progresser chaque saison.",
+"isFavorite" : false,
+"isInCart" : false,
+"price" : 49,
+"category" : "Video Games",
+"imageName" : "fifa"
+},
+
+{
+"id" : "2",
+"name" : "God of War Ragnarök",
+"description" : "Vivant comme un homme loin de l’ombre des dieux, Kratos doit faire face à un monde inconnu, des menaces inattendues et une nouvelle chance d’être père. Avec son fils Atreus, il devra affronter le royaume de Midgard et ses dangers pour accomplir une quête des plus personnelles.",
+"isFavorite" : false,
+"isInCart" : false,
+"price" : 69,
+"category" : "Video Games",
+"imageName" : "gow"
+},
+
+
+{
+"id" : "3",
+"name" : "CyberPunk 2077",
+"description" : "Cyberpunk 2077 est un RPG d'action-aventure en monde ouvert qui se déroule dans la mégalopole de Night City, où vous incarnez un cyber-mercenaire qui livre un combat sans merci pour sa survie. Amélioré spécialement pour la next-gen et comprenant du contenu additionnel gratuit, personnalisez entièrement votre personnage et votre style de jeu en accomplissant des boulots, améliorez votre réputation et déverrouillez des améliorations.",
+"isFavorite" : false,
+"isInCart" : false,
+"price" : 24,
+"category" : "Video Games",
+"imageName" : "cyber"
+},
+{
+"id" : "4",
+"name" : "Street Fighter",
+"description" : "Vivez toute l'intensité du combat avec Street Fighter V ! Choisissez parmi 16 personnages, chacun ayant son histoire et des défis d'entraînement uniques à surmonter. Affrontez des amis en ligne ou hors ligne via les nombreuses options de combat proposées. Gagnez de la Fight Money au cours des parties avec classement, participez à des matchs amicaux ou invitez des amis à vous rejoindre dans un salon de combat ! Les joueurs PlayStation®4 et PC peuvent également s'affronter grâce au système de compatibilité multijeu !",
+"isFavorite" : false,
+"isInCart" : false,
+"price" : 24,
+"category" : "Video Games",
+"imageName" : "sf"
+},
+
+{
+"id" : "5",
+"name" : "Spider-Man: Miles Morales",
+"description" : "Dans la dernière aventure de l'univers Marvel’s Spider-Man, le jeune Miles Morales prend ses marques dans son nouveau foyer tout en marchant dans les pas de son mentor, Peter Parker, en tant que nouveau Spider-Man. Mais quand une lutte de pouvoir menace de détruire son nouveau foyer, le héros en devenir se rend compte qu'un grand pouvoir implique de grandes responsabilités. Pour sauver New York, Mile doit enfiler la tenue de Spider-Man et lui faire honneur.",
+"isFavorite" : false,
+"isInCart" : false,
+"price" : 44,
+"category" : "Video Games",
+"imageName" : "spider"
+},
+{
+"id" : "6",
+"name" : "Drone intelligent",
+"description" : "DJI Mavic 3 est un drone caméra puissant phare équipé d'une caméra Hasselblad CMOS 4/3, pour une imagerie professionnelle en toute facilité. Il offre aussi une détection d'obstacles omnidirectionnelle, pour une expérience de vol fluide, un temps de vol max. de 46 minutes et une portée de transmission max. de 15 km. Chaque amélioration de DJI Mavic 3 définit un tout nouveau standard de la photographie aérienne.",
+"isFavorite" : false,
+"isInCart" : false,
+"price" : 449,
+"category" : "Hi Tech",
+"imageName" : "drone"
+},
+{
+"id" : "7",
+"name" : "Camera d'action",
+"description" : "Découvrez HERO10 Black Creator Edition. Qualité d’images 5K et stabilisation récompensée par un Emmy®. La poignée d’alimentation intégrée, le trépied, la télécommande, le micro audio et l’éclairage LED vous offrent une puissance créative absolue, à portée de main.",
+"isFavorite" : false,
+"isInCart" : false,
+"price" : 349,
+"category" : "Hi Tech",
+"imageName" : "camera"
+},
+{
+"id" : "8",
+"name" : " Enceinte portable",
+"description" : "Emportez vos sons préférés partout avec vous grâce à la Flip 5 JBL. Notre enceinte Bluetooth compacte vous accompagnera partout. Le beau temps n'est pas au rendez-vous ? Ne vous inquiétez pas. Grâce à sa conception étanche, vous pourrez profiter de notre son signature quelle que soit la météo. Ne vous arrêtez pas de danser ! Appairez deux enceintes JBL compatibles avec le mode PartyBoost pour obtenir un son stéréo ou connectez plusieurs enceintes JBL compatibles pour d'encore plus grosses soirées. Profitez de plus de 12 heures d'autonomie pour écouter vos morceaux favoris. L'enceinte tient en position verticale ou horizontale et est disponible en 11 couleurs vives.",
+"isFavorite" : false,
+"isInCart" : false,
+"price" : 149,
+"category" : "Hi Tech",
+"imageName" : "speaker"
+},
+
+{
+"id" : "9",
+"name" : "Power Bank",
+"description" : "Se recharge aussi vite que ton téléphone, \nLes capacités de chargement rapide ne sont pas uniquement réservées à ton téléphone. La batterie externe EB-P3300 offre une puissance de 25W avec une charge ultra-rapide aussi bien pour tes appareils que pour elle-même. Ainsi, tu peux recharger ton téléphone rapidement, et lorsque ta batterie externe est faible, tu peux la recharger tout aussi rapidement.",
+"isFavorite" : false,
+"isInCart" : false,
+"price" : 34,
+"category" : "Gadgets",
+"imageName" : "pbank"
+}
+
+,
+{
+"id" : "10",
+"name" : "Smart Watch",
+"description" : "Suivez tous vos progrès sportifs avec notre première montre connectée qui mesure facilement la composition corporelle. Apprenez à connaître votre pourcentage de graisse corporelle, de muscles, d'eau et bien plus encore pour atteindre vos objectifs. Le capteur Samsung BioActive et notre processeur le plus rapide apportent la plus grande innovation à la Galaxy Watch.",
+"isFavorite" : false,
+"isInCart" : false,
+"price" : 80,
+"category" : "Gadgets",
+"imageName" : "watch"
+}
+,
+
+{
+"id" : "11",
+"name" : "Wireless charger",
+"description" : "Rechargez en un clin d'oeil - Obtenez la charge dont vous avez besoin rapidement, grâce à la prise en charge de la recharge rapide (jusqu'à 15 W) - Ce supplément de batterie est compatible avec les adaptateurs de voyage USB PD et Adaptive Fast Charging pour une recharge facile.",
+"isFavorite" : false,
+"isInCart" : false,
+"price" : 18,
+"category" : "Gadgets",
+"imageName" : "wireless"
+}]
+}
